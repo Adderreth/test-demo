@@ -1,0 +1,4 @@
+name = adderreth
+registration number = 23457
+address = 35, omokaro street, off textile mill road, benin city, Edo state.
+age = 19
